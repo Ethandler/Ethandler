@@ -13,8 +13,19 @@ To learn, grow, and apply technology in meaningful ways—whether it’s tacklin
 This is more than just a repository; it’s my personal operating system 🛠️ for learning and creating. Each project, no matter how small, is a building block for something bigger.  
 
 Let’s build something amazing, one line of code at a time. ✨
-## What’s Next? 🔮
-- **Learn the basics of Python programming.
-- **Create my first Python script e.g., (hello_world.py).
-- **Explore how Python and AI tools can be applied to solve real-world problems.
-- **Document my learning and share it here to inspire others.
+
+## Progress 🚀
+
+### Current Focus: 🎯
+- 📘 Learning Python through guided lessons on **SoloLearn** and **freeCodeCamp**.
+- 🛠️ Successfully set up a GitHub repository named **EthanOS**.
+
+### Recent Accomplishments: 🏆
+- ✅ Created and ran the first Python program: `Hello, EthanOS!`.
+- 🖥️ Configured Visual Studio Code for Python development.
+- 🌟 Learned to use GitHub and created a README file and other files (`notes.md`, `hello_world.py`).
+
+### Goals: 🎯
+- 🐍 Master Python basics (e.g., loops, conditionals, functions).
+- 🎓 Complete beginner lessons on SoloLearn and freeCodeCamp.
+- 🧩 Start small Python projects to build confidence and understanding.
