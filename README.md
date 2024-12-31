@@ -29,3 +29,4 @@ Let’s build something amazing, one line of code at a time. ✨
 - 🐍 Master Python basics (e.g., loops, conditionals, functions).
 - 🎓 Complete beginner lessons on SoloLearn and freeCodeCamp.
 - 🧩 Start small Python projects to build confidence and understanding.
+- 🎓 Completed first course @freecodecamp on 🖥️HTML🖥️ and made a Cat Photo App 🐈‍⬛🐍
