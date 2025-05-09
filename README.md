@@ -1,7 +1,8 @@
 <!-- Profile README for github.com/Ethandler -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ethandler/eyetype4you/main/assets/resurgence_banner.png" width="720" alt="RESURGENCE Sigil"/>
+<img src="https://raw.githubusercontent.com/Ethandler/Ethandler/main/assets/resurgence_banner.png" width="720" alt="RESURGENCE Sigil"/>
+
 </p>
 
 <h1 align="center">⚡ Ethan Blankenship&nbsp;|&nbsp;Ethandler</h1>
