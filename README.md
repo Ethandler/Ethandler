@@ -101,7 +101,7 @@ Built under the RESURGENCE Protocol.
 |---------|------|
 | GitHub Issues | <https://github.com/Ethandler> |
 | LinkedIn | <https://linkedin.com/in/ethan_blankenship/> |
-| Email | `ethan.codes [at] proton.me` |
+| Email | <reerentrance@pm.me> |
 
 I welcome collaboration, code reviews, and brutal feedback. If you see a place my code could be tighter, say so.
 
