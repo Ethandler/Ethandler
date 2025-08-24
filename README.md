@@ -1,14 +1,13 @@
 <!-- Profile README for github.com/Ethandler -->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Ethandler/Ethandler/main/assets/resurgence_banner.png" width="720" alt="RESURGENCE Sigil"/>
-
+  <img src="https://raw.githubusercontent.com/Ethandler/Ethandler/main/assets/header.png" width="720" alt="Ethan Blankenship Banner"/>
 </p>
 
 <h1 align="center">⚡ Ethan Blankenship&nbsp;|&nbsp;Ethandler</h1>
 <p align="center">
-  <em>Automation addict · Code strategist · Relentless problem‑solver</em><br/>
-  I build bots that buy back your time and software that survives production.
+  <em>QC Engineer · Automation builder · Problem-solver</em><br/>
+  I design tools that take the grind out of work — from field testing logs to AI-driven bots.
 </p>
 
 ---
@@ -17,12 +16,16 @@
 
 | What I do | Why it matters |
 |-----------|----------------|
-| **Python & Rust automation** | Turn soul‑sucking grunt work into one‑click scripts |
-| **DevOps & Cloud** (AWS, Docker, GitHub Actions) | Ship fast, break never, scale when needed |
-| **Data wrangling & scraping** | Convert messy streams into clean, actionable datasets |
-| **Security tinkering** | Keep both my code and my curiosity razor‑sharp |
+| **Python automation** | Turn repetitive tasks into reliable one-click workflows |
+| **Field + Lab QC Systems** | Build digital logbooks that replace manual duplication |
+| **Data wrangling** | Parse tickets, samples, and messy inputs into structured datasets |
+| **Side projects** | Experiment with Rust, Lua, and Golang for fun and growth |
 
-I’m currently finishing a B.S. in Computer Science at CTU, freelancing on automation gigs, and teaching myself Rust, Golang, Lua, and Elixir in that order.
+Currently:  
+- Working full-time in **Quality Control / Construction Materials Testing**  
+- Building out the **QC-Sample-Log** system (audit-ready logbook + OCR pipeline)  
+- Completing a **B.S. in Computer Science** at CTU  
+- Experimenting with creative projects like **AWingDingUseCase** (art-meets-code)  
 
 ---
 
@@ -31,10 +34,7 @@ I’m currently finishing a B.S. in Computer Science at CTU, freelancing on auto
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -42,38 +42,22 @@ I’m currently finishing a B.S. in Computer Science at CTU, freelancing on auto
 <details>
 <summary>Other gear I reach for</summary>
 
-- PyAutoGUI · Playwright · Selenium  
 - Pandas · NumPy · FastAPI · Flask  
-- Terraform · Ansible  
+- Playwright · Selenium · PyAutoGUI  
 - Bash · PowerShell  
 - Figma for quick UI sketches
 </details>
 
 ---
 
-## 🚧 Work in Progress
+## 🚧 Current Projects
 
 | Project | What it does | Status |
 |---------|--------------|--------|
-| **Auto‑Fill Bot** | Form‑filling using image recognition + CSV mapping | Beta launch 🔄 |
-| **Eyetype4You** | Accessibility typing bot driven by AI suggestions | Video demo in prep |
-| **GigSniper‑Lite** | Chrome extension that snipes freelance gigs and autofills proposals | Proof‑of‑concept |
-| **Solharin Codex** | Metacognition framework & rituals (Notion + PDF) | Drafting |
-
----
-
-## 🌐 RESURGENCE Network
-
-This is more than a solo arc. These are the systems rising with me:
-
-| Project | Owner | Description |
-|--------|--------|-------------|
-| [WhackDevOps](https://github.com/WhackDevOps) | Velahrin | Tactical automation ops & gig deployment suite |
-| [JimmysGameRepo](https://github.com/WhackDevOps/JimmysGameRepo) | GymJam | Asset showcase & early build of Jimmy’s game |
-| [Eyetype4You](https://github.com/Ethandler/eyetype4you) | Velahrin | Auto-typing tool for high-speed UI workflows |
-
-Built under the RESURGENCE Protocol.  
-**Dev. Liberate. Automate.**
+| **QC-Sample-Log** | Digital logbook + OCR pipeline for construction materials testing | Active dev |
+| **Eyetype4You** | Accessibility typing bot powered by AI suggestions | Iterating |
+| **GigSniper-Lite** | Browser extension that autofills freelance proposals | Prototype |
+| **AWingDingUseCase** | Novelty “art-as-code” app (Wingdings/Greeklish encoding) | Early build |
 
 ---
 
@@ -86,12 +70,12 @@ Built under the RESURGENCE Protocol.
 
 ---
 
-## 🌱 Leveling Up
+## 🌱 Learning Focus
 
-- **Kubernetes** and container orchestration
-- **Serverless AWS** (Lambda, EventBridge, Step Functions)
-- **Distributed systems** design patterns
-- **Rust** deep dive (async, FFI, WASM)
+- **Rust** deeper dive (async, WASM, FFI)  
+- **Serverless patterns** on AWS (Lambda, Step Functions, EventBridge)  
+- **Better DevOps workflows** with GitHub Actions and Docker  
+- **Creative crossover projects** (apps that blur lines between utility and art)  
 
 ---
 
@@ -103,8 +87,8 @@ Built under the RESURGENCE Protocol.
 | LinkedIn | <https://linkedin.com/in/ethan_blankenship/> |
 | Email | <reerentrance@pm.me> |
 
-I welcome collaboration, code reviews, and brutal feedback. If you see a place my code could be tighter, say so.
+I’m always open to collaboration, code reviews, and practical feedback.
 
 ---
 
-> “The job’s not finished until the script pipelines itself.” — me
+> “The job’s not finished until the script pipelines itself.” — EB
