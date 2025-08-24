@@ -1,9 +1,5 @@
 <!-- Profile README for github.com/Ethandler -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ethandler/Ethandler/main/assets/header.png" width="720" alt="Ethan Blankenship Banner"/>
-</p>
-
 <h1 align="center">⚡ Ethan Blankenship&nbsp;|&nbsp;Ethandler</h1>
 <p align="center">
   <em>QC Engineer · Automation builder · Problem-solver</em><br/>
