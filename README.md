@@ -52,8 +52,8 @@
 ## 📊 GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Velahrin&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velahrin&layout=compact&theme=github_dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ethandler&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethandler&layout=compact&theme=github_dark" alt="Top Langs" />
 </p>
 
 ---
