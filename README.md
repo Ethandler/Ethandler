@@ -1,31 +1,23 @@
-<!-- Profile README for github.com/Ethandler -->
+<!-- Profile README for github.com/Velahrin -->
 
-<h1 align="center">⚡ Ethan Blankenship&nbsp;|&nbsp;Ethandler</h1>
+<h1 align="center">🔥 Velahrin (Ethan Blankenship)</h1>
 <p align="center">
-  <em>QC Engineer · Automation builder · Problem-solver</em><br/>
-  I design tools that take the grind out of work — from field testing logs to AI-driven bots.
+  <em>Automation · Security · Real-world Engineering</em><br/>
+  I turn messy processes into code that actually ships.
 </p>
 
 ---
 
-## 🧑‍💻 Snapshot
+## ⚡ Snapshot
 
-| What I do | Why it matters |
-|-----------|----------------|
-| **Python automation** | Turn repetitive tasks into reliable one-click workflows |
-| **Field + Lab QC Systems** | Build digital logbooks that replace manual duplication |
-| **Data wrangling** | Parse tickets, samples, and messy inputs into structured datasets |
-| **Side projects** | Experiment with Rust, Lua, and Golang for fun and growth |
-
-Currently:  
-- Working full-time in **Quality Control / Construction Materials Testing**  
-- Building out the **QC-Sample-Log** system (audit-ready logbook + OCR pipeline)  
-- Completing a **B.S. in Computer Science** at CTU  
-- Experimenting with creative projects like **AWingDingUseCase** (art-meets-code)  
+- **Automation + Security** → Building resilient systems that save time, reduce risk, and just work.  
+- **Languages** → Python for power, Rust for speed, JS for reach.  
+- **Background** → Former QA inspector; now applying field-grade rigor to software.  
+- **Philosophy** → Ship fast, document clearly, iterate smarter.  
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🛠️ Toolbox
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -41,50 +33,48 @@ Currently:
 - Pandas · NumPy · FastAPI · Flask  
 - Playwright · Selenium · PyAutoGUI  
 - Bash · PowerShell  
-- Figma for quick UI sketches
+- Figma for quick UI sketches  
 </details>
 
 ---
 
-## 🚧 Current Projects
+## 🚧 Projects in Motion
 
-| Project | What it does | Status |
-|---------|--------------|--------|
-| **QC-Sample-Log** | Digital logbook + OCR pipeline for construction materials testing | Active dev |
-| **Eyetype4You** | Accessibility typing bot powered by AI suggestions | Iterating |
-| **GigSniper-Lite** | Browser extension that autofills freelance proposals | Prototype |
-| **AWingDingUseCase** | Novelty “art-as-code” app (Wingdings/Greeklish encoding) | Early build |
+| Project | What it does | Stage |
+|---------|--------------|-------|
+| **QC-Sample-Log** | Audit-ready logbook + OCR for construction QA | 🔥 Active |
+| **Eyetype4You** | Accessibility typing bot powered by AI | ⚡ Iterating |
+| **GigSniper-Lite** | Autofills freelance proposals on the fly | 🧪 Prototype |
+| **AWingDingUseCase** | Art-meets-code novelty encoder | 🌱 Early |
 
 ---
 
-## 📈 GitHub Pulse
+## 📊 GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ethandler&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethandler&layout=compact&theme=github_dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Velahrin&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velahrin&layout=compact&theme=github_dark" alt="Top Langs" />
 </p>
 
 ---
 
-## 🌱 Learning Focus
+## 🌱 Leveling Up
 
-- **Rust** deeper dive (async, WASM, FFI)  
-- **Serverless patterns** on AWS (Lambda, Step Functions, EventBridge)  
-- **Better DevOps workflows** with GitHub Actions and Docker  
-- **Creative crossover projects** (apps that blur lines between utility and art)  
+- Deeper **Rust** (async, WASM, FFI)  
+- **Serverless** workflows (AWS Lambda + EventBridge)  
+- **DevOps pipelines** with Actions + Docker  
+- Creative **utility/art crossovers**  
 
 ---
 
-## 📫 Reach Out
+## 📫 Connect
 
 | Channel | Link |
 |---------|------|
-| GitHub Issues | <https://github.com/Ethandler> |
-| LinkedIn | <https://linkedin.com/in/ethan_blankenship/> |
+| GitHub | [github.com/Velahrin](https://github.com/Velahrin) |
+| LinkedIn | [linkedin.com/in/ethan_blankenship](https://linkedin.com/in/ethan_blankenship) |
 | Email | <reerentrance@pm.me> |
 
-I’m always open to collaboration, code reviews, and practical feedback.
+💡 Open to collaboration, feedback, and building things that outlive the hype.  
 
 ---
-
-> “The job’s not finished until the script pipelines itself.” — EB
