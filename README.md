@@ -71,7 +71,7 @@
 
 | Channel | Link |
 |---------|------|
-| GitHub | [github.com/Velahrin](https://github.com/Velahrin) |
+| GitHub | [github.com/Velahrin](https://github.com/Ethandler) |
 | LinkedIn | [linkedin.com/in/ethan_blankenship](https://linkedin.com/in/ethan_blankenship) |
 | Email | <reerentrance@pm.me> |
 
